@@ -1,57 +1,121 @@
-<!DOCTYPE html>
+[11:47, 16/08/2024] +55 42 9944-3005: <!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Milk Money</title>
+    <title>Escola de Robótica</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <header class="cabecalho">
-        <img class="cabecalho-logotipo" src="logo trabalho.avif" alt="Paisagem urbana">
-    </section> 
-    <h1 class="cabecalho-titulo">Milk Money</h1>
-        <nav>
-            <ul class="cabecalho-lista">
-                <li><a href="#campo">Vida no Campo</a></li>
-                <li><a href="#cidade">Vida na Cidade</a></li>
-            </ul>
-        </nav>
+    <header class="cabeçalho">
+        <img class="cabeçalho-logotipo" src="teaching 1.png" alt="robô escrevendo em uma lousa">
+        <h1 class="cabeçalho-título">Escola de Robótica</h1>
+        <ul class="cabeçalho-lista">
+            <li class="cabeçalho-lista-item1">Missão de Nossa Escola</li>
+            <li class="cabeçalho-lista-item2">Equipe de Professores</li>
+        </ul>
     </header>
 
-    <main>
-        <section id="campo" class="secao">
-            <div class="secao-conteudo">
-                <h2 class="secao-titulo">Vida no Campo</h2>
-                <p class="secao-texto"> A vida no campo é marcada por uma conexão profunda com a natureza e um ritmo mais tranquilo, distante da agitação das cidades. As manhãs começam cedo, muitas vezes ao som dos pássaros e do galo, e o dia é preenchido com tarefas ligadas à terra: cuidar dos animais, plantar, colher, e manter a propriedade em ordem. A simplicidade e a autonomia são características fortes desse estilo de vida.O contato direto com o ambiente natural traz um senso de paz e pertencimento, e há uma grande valorização dos recursos disponíveis localmente. As refeições costumam ser feitas com alimentos frescos, muitas vezes cultivados no próprio quintal ou trocados com vizinhos.
+    <section class="nossa-escola">
+        <div class="nossa-escola-div">
+            <h2 class="nossa-escola-título">Nossa Escola</h2>
+            <p class="nossa-escola-texto1">Mussum Ipsum, cacilds vidis litro abertis. Paisis, filhis, espiritis santis.
+                Si
+                num tem leite então bota uma pinga aí cumpadi! Todo mundo vê os porris que eu tomo, mas ninguém vê os
+                tombis
+                que eu levo! Detraxit consequat et quo num tendi nada.</p>
+            <p class="nossa-escola-texto2">Nulla id gravida magna, ut semper sapien. Copo furadis é disculpa de bebadis,
+                arcu quam euismod magna. Casamentiss faiz malandris se pirulitá. Suco de cevadiss, é um leite divinis,
+                qui
+                tem lupuliz, matis, aguis e fermentis.</p>
+        </div>
+        <img class="nossa-escola-imagem" src="Robotics-pana.png" alt="braços robóticos">
+    </section>
 
- .</p>
+    <section class="equipe">
+        <h2 class="equipe-título">Equipe docente</h2>
+        <div class="equipe-div-todos">
+            <span></span>
+            <div class="equipe-div">
+                <img class="professor" src="p149f166.png" alt="Professor Dragonite">
+                <h3 class="professor-nome">Dragonite</h3>
+                <a href="https://br.linkedin.com/?trk=guest_homepage-basic_nav-header-logo">
+                    <img class="ícone" src="linkedin (1).png" alt="ícone do linkedin">
+                </a>
+                <a href="https://github.com/JoanirRibeiro">
+                    <img class="ícone" src="github (1).png" alt="ícone do github">
+                </a>
             </div>
-            <img class="secao-imagem" src="Paisagem_rural_de_Tunápolis.jpg" alt="paisagem-rural">
-        </section>
-        <section id="cidade" class="secao">
-            <div class="secao-conteudo">
-                <h2 class="secao-titulo">Vida na Cidade</h2>
-                <p class="secao-texto">Na cidade, o ritmo é acelerado e as oportunidades são vastas. As pessoas migram em busca de melhores empregos, educação e serviços de saúde.</p>
-                <p class="secao-texto">No entanto, a adaptação pode ser difícil devido ao trânsito caótico e à sensação de anonimato. Apesar dos desafios, a cidade oferece um ambiente diversificado e rico em cultura e tecnologia.</p>
-                <p class="secao-texto">Encontrar um equilíbrio entre as raízes rurais e as novas experiências urbanas é essencial para prosperar nessa nova jornada.</p>
-            </div>
-            <img class="secao-imagem" src="cidade.jpg" alt="Paisagem urbana">
-        </section>
-    </main>
 
-    <footer class="rodape">
-        <img class="rodape-imagem" src="city.png" alt=>
-        <h3 class="rodape-titulo">Desenvolvido por Eloiza Boff</h3>
-        <a href="https://www.instagram.com/leo.chiniski?igsh=YzAyZzhrMDNvZTA0" target="_blank">
-            <img class="rodape-icone" src=images.png alt="https://www.instagram.com/leo.chiniski?igsh=YzAyZzhrMDNvZTA0">
+            <div class="equipe-div">
+                <img class="professor" src="p149f166.png" alt="Professor Dragonite">
+                <h3 class="professor-nome">Dragonite</h3>
+                <a href="https://br.linkedin.com/?trk=guest_homepage-basic_nav-header-logo">
+                    <img class="ícone" src="linkedin (1).png" alt="ícone do linkedin">
+                </a>
+                <a href="https://github.com/JoanirRibeiro">
+                    <img class="ícone" src="github (1).png" alt="ícone do github">
+                </a>
+            </div>
+
+            <div class="equipe-div">
+                <img class="professor" src="p149f166.png" alt="Professor Dragonite">
+                <h3 class="professor-nome">Dragonite</h3>
+                <a href="https://br.linkedin.com/?trk=guest_homepage-basic_nav-header-logo">
+                    <img class="ícone" src="linkedin (1).png" alt="ícone do linkedin">
+                </a>
+                <a href="https://github.com/JoanirRibeiro">
+                    <img class="ícone" src="github (1).png" alt="ícone do github">
+                </a>
+            </div>
+            <span></span>
+            <span></span>
+            <div class="equipe-div">
+                <img class="professor" src="p149f166.png" alt="Professor Dragonite">
+                <h3 class="professor-nome">Dragonite</h3>
+                <a href="https://br.linkedin.com/?trk=guest_homepage-basic_nav-header-logo">
+                    <img class="ícone" src="linkedin (1).png" alt="ícone do linkedin">
+                </a>
+                <a href="https://github.com/JoanirRibeiro">
+                    <img class="ícone" src="github (1).png" alt="ícone do github">
+                </a>
+            </div>
+
+            <div class="equipe-div">
+                <img class="professor" src="p149f166.png" alt="Professor Dragonite">
+                <h3 class="professor-nome">Dragonite</h3>
+                <a href="https://br.linkedin.com/?trk=guest_homepage-basic_nav-header-logo">
+                    <img class="ícone" src="linkedin (1).png" alt="ícone do linkedin">
+                </a>
+                <a href="https://github.com/JoanirRibeiro">
+                    <img class="ícone" src="github (1).png" alt="ícone do github">
+                </a>
+            </div>
+
+            <div class="equipe-div">
+                <img class="professor" src="p149f166.png" alt="Professor Dragonite">
+                <h3 class="professor-nome">Dragonite</h3>
+                <a href="https://br.linkedin.com/?trk=guest_homepage-basic_nav-header-logo">
+                    <img class="ícone" src="linkedin (1).png" alt="ícone do linkedin">
+                </a>
+                <a href="https://github.com/JoanirRibeiro">
+                    <img class="ícone" src="github (1).png" alt="ícone do github">
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="rodapé">
+        <img class="rodapé-imagem" src="teaching 1.png" alt="robô em pé">
+        <h3 class="rodapé-título">Desenvolvido por Joanir Fernando Ribeiro</h3>
+        <a href="https://github.com/JoanirRibeiro">
+        <img class="rodapé-ícone" src="github (1).png" alt="">
         </a>
     </footer>
 </body>
-
-</html>
